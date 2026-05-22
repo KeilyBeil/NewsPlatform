@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "news_title_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "news_content_font_size",
+      "value": "13fp"
+    },
+    {
+      "name": "news_source_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tab_selected_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "tab_normal_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "20fp"
+    }
+  ]
+}

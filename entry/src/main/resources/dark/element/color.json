@@ -1,0 +1,68 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FF1A1A2E"
+    },
+    {
+      "name": "page_bg_color",
+      "value": "#FF1A1A2E"
+    },
+    {
+      "name": "title_bar_bg",
+      "value": "#FF16213E"
+    },
+    {
+      "name": "title_color",
+      "value": "#FFEEEEEE"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#40000000"
+    },
+    {
+      "name": "tab_selected_color",
+      "value": "#FFFF6B6B"
+    },
+    {
+      "name": "tab_normal_color",
+      "value": "#FFAAAAAA"
+    },
+    {
+      "name": "news_item_bg",
+      "value": "#FF16213E"
+    },
+    {
+      "name": "news_title_color",
+      "value": "#FFEEEEEE"
+    },
+    {
+      "name": "news_content_color",
+      "value": "#FFAAAAAA"
+    },
+    {
+      "name": "news_source_color",
+      "value": "#FF777777"
+    },
+    {
+      "name": "divider_color",
+      "value": "#FF0F3460"
+    },
+    {
+      "name": "image_placeholder_color",
+      "value": "#FF0F3460"
+    },
+    {
+      "name": "refresh_bg_color",
+      "value": "#FF1A1A2E"
+    },
+    {
+      "name": "refresh_icon_color",
+      "value": "#FFFF6B6B"
+    },
+    {
+      "name": "refresh_text_color",
+      "value": "#FFAAAAAA"
+    }
+  ]
+}

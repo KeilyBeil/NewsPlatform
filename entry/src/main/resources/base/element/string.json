@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "新闻资讯客户端"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "新闻资讯应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "新闻"
+    },
+    {
+      "name": "dependency_reason",
+      "value": "用于获取最新新闻数据"
+    },
+    {
+      "name": "news_title",
+      "value": "今日资讯"
+    }
+  ]
+}
